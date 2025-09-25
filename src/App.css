@@ -29,3 +29,8 @@
 .small {
   font-size: 0.75rem;
 }
+
+.text-3xl {
+  font-size: 70px;
+
+}
